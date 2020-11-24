@@ -9,7 +9,7 @@ The script yelp_scrape.py was written to collect data for a PSTAT 235 group proj
 * yelpapi (pip install yelpapi https://github.com/gfairchild/yelpapi)
 
 ## Example
-cities = ['Santa Barbara, CA','Los Angeles, CA','New York, NY']
+`cities = ['Santa Barbara, CA','Los Angeles, CA','New York, NY']
 api_key = XIXIXIXLXJO
 
-Yelp_ScrapeISP(api_key,cities)
+Yelp_ScrapeISP(api_key,cities)`
