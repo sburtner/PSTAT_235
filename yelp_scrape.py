@@ -147,8 +147,7 @@ def Yelp_ScrapeISP (api_key,city_names,business_data = 'businesses.csv',
 
 #get the api key by creating an account on yelp and then clicking on Create App. Fill out
 #form and it will generate a key for you.
-api_key = 'Gxa0LqhgTU-G3sf9RuA_kt5dHTxgH-m5BNMdM-0TpN56PYRFdEnoj811SGiz9O2-a5TazMI5VpOzzBH91ZMX9p4PJ1K-ALQ0VSnuuL3t4Yt97lrV-3dBdNikmVC3X3Yx'
-
+api_key = 
 cities = ['Los Angeles, CA','Santa Barbara, CA','Walnut, CA',
 'Santa Clarita, CA','Pomona,CA','Fresno,CA']
 
