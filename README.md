@@ -11,7 +11,7 @@ The script yelp_scrape.py was written to collect data for a PSTAT 235 group proj
 ## Example
 ```python
 cities = ['Santa Barbara, CA','Los Angeles, CA','New York, NY']
-api_key = XIXIXIXLXJO
+api_key = 'XIXIXIXLXJO'
 
 Yelp_ScrapeISP(api_key,cities)
 ```
